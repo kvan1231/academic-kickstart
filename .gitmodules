@@ -5,3 +5,7 @@
 	path = kvan1231.github.io
 	url = https://github.com/kvan1231/kvan1231.github.io
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/kvan1231/kvan1231.github.io
+	branch = master
