@@ -39,6 +39,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/kvan1231
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kvan1231/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -55,4 +58,5 @@ user_groups:
 - Visitors
 ---
 
-I'm Currently a third year PhD student working under professor <a href="https://sites.ualberta.ca/~ivanova1/", target="_blank">Natalia Ivanova</a> at the University of Alberta. My Current research focuses on testing a more generalized and improved magnetic braking prescription described in <a href="http://adsabs.harvard.edu/abs/2016MNRAS.456..263P", target="_blank"> Pavlovskii et al. 2015</a>. Using <a href="http://mesa.sourceforge.net/", target="_blank"> MESA </a> and the resources provided by <a href="https://www.computecanada.ca/", target="_blank"> Compute Canada </a>, I simulate a grid of initial binaries and compare the results to observed systems.
+I'm currently a third year PhD student working under professor <a href="https://sites.ualberta.ca/~ivanova1/", target="_blank">Natalia Ivanova</a> at the University of Alberta. My Current research focuses on testing a more generalized and improved magnetic braking prescription described in <a href="http://adsabs.harvard.edu/abs/2016MNRAS.456..263P", target="_blank"> Pavlovskii et al. 2015</a>. Using <a href="http://mesa.sourceforge.net/", target="_blank"> MESA </a> and the resources provided by <a href="https://www.computecanada.ca/", target="_blank"> Compute Canada </a>, I simulate a grid of initial binaries and compare the results to observed systems.
+<p><font size="2">Image from <a href="https://www.jakubostrowski.com/" target="_blank">Jakub Ostrowski Photography.</a></font></p> 
