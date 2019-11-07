@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Astrohphysics PhD Student
+role: Astrophysics PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ualberta.ca/physics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include numerical simulations of binary systems.
+bio: Astrophysics PhD candidate at the University of Alberta
 
 interests:
 - Stellar Evolution
@@ -36,6 +36,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3862-5826
+- icon: ads
+  icon_pack: ai
+  link: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-3862-5826&sort=date+desc
 - icon: github
   icon_pack: fab
   link: https://github.com/kvan1231
@@ -58,5 +61,5 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a third year PhD student working under professor <a href="https://sites.ualberta.ca/~ivanova1/", target="_blank">Natalia Ivanova</a> at the University of Alberta. My Current research focuses on testing a more generalized and improved magnetic braking prescription described in <a href="http://adsabs.harvard.edu/abs/2016MNRAS.456..263P", target="_blank"> Pavlovskii et al. 2015</a>. Using <a href="http://mesa.sourceforge.net/", target="_blank"> MESA </a> and the resources provided by <a href="https://www.computecanada.ca/", target="_blank"> Compute Canada </a>, I simulate a grid of initial binaries and compare the results to observed systems.
+I'm currently a third year PhD student working under professor <a href="https://sites.ualberta.ca/~ivanova1/", target="_blank">Natalia Ivanova</a> at the University of Alberta. My current research focuses on testing a more generalized and improved magnetic braking prescription described in <a href="http://adsabs.harvard.edu/abs/2016MNRAS.456..263P", target="_blank"> Pavlovskii et al. 2015</a>. Using <a href="http://mesa.sourceforge.net/", target="_blank"> MESA </a> and the resources provided by <a href="https://www.computecanada.ca/", target="_blank"> Compute Canada</a>, I simulate a grid of initial binaries and compare the results to observed systems.
 <p><font size="2">Image from <a href="https://www.jakubostrowski.com/" target="_blank">Jakub Ostrowski Photography.</a></font></p> 

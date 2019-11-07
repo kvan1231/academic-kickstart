@@ -30,13 +30,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: ads
+   url: https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.2092P/abstract
 
-url_pdf:
+url_pdf: "https://arxiv.org/pdf/1606.04921.pdf"
 url_code:
 url_dataset:
 url_poster:
