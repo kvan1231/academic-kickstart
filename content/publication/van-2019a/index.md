@@ -26,7 +26,7 @@ summary: "A systematic comparison of different magnetic braking schemes using th
 
 tags: ["methods: numerical", "binaries: general", "stars: evolution", "stars: magnetic field", "X-rays: binaries", "Astrophysics - High Energy Astrophysical Phenomena"]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

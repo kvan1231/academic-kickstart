@@ -85,7 +85,10 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "kvan@ualberta.ca"
+# email = "kvan@ualberta.ca"
+email1 = "kvan" # using cryptedmail
+email2 = "ualberta" # using cryptedmail
+email3 = "ca" # using cryptedmail
 phone = ""
 
 # Address
