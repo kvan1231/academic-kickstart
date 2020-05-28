@@ -61,5 +61,6 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a third year PhD student working under professor <a href="https://sites.ualberta.ca/~ivanova1/", target="_blank">Natalia Ivanova</a> at the University of Alberta. My current research focuses on testing a more generalized and improved magnetic braking prescription described in <a href="http://adsabs.harvard.edu/abs/2016MNRAS.456..263P", target="_blank"> Pavlovskii et al. 2015</a>. Using <a href="http://mesa.sourceforge.net/", target="_blank"> MESA </a> and the resources provided by <a href="https://www.computecanada.ca/", target="_blank"> Compute Canada</a>, I simulate a grid of initial binaries and compare the results to observed systems.
-<p><font size="2">Image from <a href="https://www.jakubostrowski.com/" target="_blank">Jakub Ostrowski Photography.</a></font></p> 
+I'm currently a third year PhD student working under professor [Natalia Ivanova](https://sites.ualberta.ca/~ivanova1/) at the University of Alberta. My current research focuses on testing a more generalized and improved magnetic braking prescription described in [Van & Ivanova 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv191105790V/abstract). Using [MESA](http://mesa.sourceforge.net/) and the resources provided by [Compute Canada](https://www.computecanada.ca/), I simulate a grid of initial binaries and compare the results to observed systems. 
+
+Image from [Jakub Ostrowski Photography.](https://www.jakubostrowski.com/)
