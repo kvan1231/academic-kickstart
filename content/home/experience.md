@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Education"
 subtitle = ""
@@ -18,12 +18,12 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD Candidate"
+  title = "PhD Student"
   company = "University of Alberta"
   company_url = ""
   location = "Canada"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2021-08-31"
   description = """
   The current research builds upon the work done during my MSc and expands on the magnetic braking prescriptions tested. For current results see the publications in the [publication](#publications) section
   """

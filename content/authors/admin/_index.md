@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Astrophysics PhD Candidate
+role: Astrophysics PhD Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "https://www.ualberta.ca/physics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Astrophysics PhD candidate at the University of Alberta
+bio: Astrophysics PhD Graduate
 
 interests:
-- Stellar Evolution
-- Computational Astrophysics
-- Binary Interactions
+- Machine learning
+- Data Analysis
+- Data Visualization
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a third year PhD student working under professor [Natalia Ivanova](https://sites.ualberta.ca/~ivanova1/) at the University of Alberta. My current research focuses on testing a more generalized and improved magnetic braking prescription described in [Van & Ivanova 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv191105790V/abstract). Using [MESA](http://mesa.sourceforge.net/) and the resources provided by [Compute Canada](https://www.computecanada.ca/), I simulate a grid of initial binaries and compare the results to observed systems. 
+Hi I'm Kenny and I have a passion for analytics and machine learning. I recently graduated with a Ph.D from the University of Alberta under the supervision of professor [Natalia Ivanova](https://sites.ualberta.ca/~ivanova1/). My research involved using a numerical simulations, statistical analysis and data visualization to model stellar systems resulting in numerous [scientific publications](#featured). Throughout my graduate research I gained experience in machine learning, data analysis, and high performance computing. I am currently looking to start a career in data analytics or machine learning.
 
 Image from [Jakub Ostrowski Photography.](https://www.jakubostrowski.com/)
